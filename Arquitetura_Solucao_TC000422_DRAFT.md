@@ -1,6 +1,3 @@
-# doacaonfce
-Doação de XMLs de NFCe para aplicação colaborativa da AFRAC
-
 __Definição de Arquitetura de Solução__
 
 1. __Objetivo__
